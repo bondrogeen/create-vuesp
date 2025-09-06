@@ -1,22 +1,17 @@
-
 # create-vuesp
+
+```
+npm i create-vuesp -g
+
+create-vuesp vuesp.my-project
+
+```
 
 CLI create vuesp project
 
-Template for your arduino projects with a web interface.
+[Vuesp](https://github.com/bondrogeen/vuesp) - Template for your arduino projects with a web interface.
 
-[Vuesp](https://github.com/bondrogeen/vuesp) 
-
-
-Screenshot
-
-![image](https://raw.githubusercontent.com/bondrogeen/vuesp/master/github/images/screen/home.webp)
-![image](https://raw.githubusercontent.com/bondrogeen/vuesp/master/github/images/screen/settings.webp)
-![image](https://raw.githubusercontent.com/bondrogeen/vuesp/master/github/images/screen/storage.webp)
-![image](https://raw.githubusercontent.com/bondrogeen/vuesp/master/github/images/screen/action.webp)
-
-
-## 3.1.0 (2025-09-03)
+## 1.0.0 (2025-09-03)
 
 - (bondrogeen) init
 
