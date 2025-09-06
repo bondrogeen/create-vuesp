@@ -1,0 +1,30 @@
+{
+  "name": "create-vuesp",
+  "version": "1.0.0",
+  "description": "CLI create vuesp project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-vuesp": "./bin/cli.js"
+  },
+  "keywords": [
+    "vuesp",
+    "vue",
+    "starter",
+    "template",
+    "cli"
+  ],
+  "author": "bondrogeen",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.6.0",
+    "commander": "^14.0.0",
+    "degit": "^2.8.4",
+    "inquirer": "^12.9.4",
+    "shelljs": "^0.10.0",
+    "prettier": "^3.5.3"
+  }
+}
