@@ -1,6 +1,6 @@
 {
   "name": "create-vuesp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI create vuesp project",
   "type": "module",
   "main": "index.js",

@@ -11,7 +11,7 @@ import { parse } from '../utils/index.js'
 
 const program = new Command();
 
-const choices = ["esp8266", "esp32", "esp32c3"]
+const choices = ["esp8266", "esp32", "pico32", "esp32-c3-devkitm-1"]
 
 program
     .version('1.0.0')
